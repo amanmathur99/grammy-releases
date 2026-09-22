@@ -5,6 +5,37 @@
     <link>https://github.com/amanmathur99/grammy-releases</link>
     <language>en</language>
     <item>
+      <title>Grammy 1.6</title>
+      <pubDate>Tue, 22 Sep 2026 05:51:18 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>New</b></p>
+<ul>
+<li><b>Live edits (experimental):</b> turn it on in Settings, and the diagram sketches itself while you&#x27;re still talking, then finishes on the one you watched build.</li>
+<li>A close button in the pill&#x27;s corner when you hover over a diagram.</li>
+<li>A simpler Settings window, with your shortcuts shown at the top.</li>
+<li>A shorter, clearer setup for new users, with example prompts to try first.</li>
+</ul>
+<p><b>Improved</b></p>
+<ul>
+<li>Edits use Claude Sonnet, so they follow what you ask more reliably.</li>
+<li>The pill is a true capsule and animates smoothly between typing, sketching and the finished diagram, with no flashes or clipping.</li>
+<li>The pointer turns into a hand over the diagram, and one click opens the editor.</li>
+<li>Links that loop back or skip past boxes are drawn around them, not through them.</li>
+<li>Bigger edits to detailed diagrams no longer fail partway through, and if a change is too big to draw at once, Grammy says so.</li>
+<li>A fresh look, using Manrope.</li>
+</ul>
+<p><b>Fixed</b></p>
+<ul>
+<li>Opening Settings could crash Grammy.</li>
+<li>Opening the composer could flash your last diagram.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/amanmathur99/grammy-releases/releases/download/v1.6/Grammy.dmg" type="application/octet-stream" sparkle:edSignature="aOshZMEP/tUGLXZfruMR+jLYAP0rx+Jx9Nnf0zoye3jbCvp5YxcUQY/8hWg072sN9QhVSVhJaSX3z25x8/vwAg==" length="5418444" />
+    </item>
+    <item>
       <title>Grammy 1.5</title>
       <pubDate>Tue, 22 Sep 2026 03:51:17 GMT</pubDate>
       <sparkle:version>6</sparkle:version>
