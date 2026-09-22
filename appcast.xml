@@ -5,6 +5,20 @@
     <link>https://github.com/amanmathur99/grammy-releases</link>
     <language>en</language>
     <item>
+      <title>Grammy 1.8</title>
+      <pubDate>Tue, 22 Sep 2026 17:41:03 GMT</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>Fixed</b></p>
+<ul>
+<li>Grammy now works with Anthropic&#x27;s newer personal and service account API keys, not just the older workspace ones. If a key covers several workspaces, Grammy asks which to use, or picks it for you when there&#x27;s only one, and you can change it later in Settings.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/amanmathur99/grammy-releases/releases/download/v1.8/Grammy.dmg" type="application/octet-stream" sparkle:edSignature="xqE7Eb/u65uNbeLZniPPErYFoXfv9F6hAAUKZlUYjIP8+u9tCTWDpz1H2NfL4a6B5tC86veckuqBM+Ce6lKjBQ==" length="5444763" />
+    </item>
+    <item>
       <title>Grammy 1.7</title>
       <pubDate>Tue, 22 Sep 2026 15:25:30 GMT</pubDate>
       <sparkle:version>11</sparkle:version>
