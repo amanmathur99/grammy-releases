@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Grammy</title>
+    <link>https://github.com/amanmathur99/grammy-releases</link>
+    <language>en</language>
+    <item>
+      <title>Grammy 1.5</title>
+      <pubDate>Tue, 22 Sep 2026 03:51:17 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>New</b></p>
+<ul>
+<li>Grammy now updates itself. It checks once a day and offers new versions when they&#x27;re ready, or choose <b>Check for Updates…</b> in the menu. This is the last time you&#x27;ll need to download Grammy by hand.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/amanmathur99/grammy-releases/releases/download/v1.5/Grammy.dmg" type="application/octet-stream" sparkle:edSignature="WLFDaaOnLwOaAkkDlxmh2hYfzewhiTKAe9Z1okKr/GtJ93ixVl1JliYdLk3pHwPFXBgNdkTl8jZEuEr1SrcOCg==" length="5279259" />
+    </item>
+  </channel>
+</rss>
