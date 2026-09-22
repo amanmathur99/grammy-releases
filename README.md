@@ -16,8 +16,9 @@ It's signed and notarized by Apple.
 
 ## Updating
 
-Download the latest **Grammy.dmg** and open it. Grammy replaces the old copy and keeps your key,
-settings and history.
+From 1.5 on, Grammy updates itself. It checks once a day, or choose **Check for Updates…** in
+the menu bar menu. On an older version, download the latest **Grammy.dmg** once and open it.
+Grammy replaces the old copy and keeps your key, settings and history.
 
 Every version is listed under [Releases](https://github.com/amanmathur99/grammy-releases/releases).
 
