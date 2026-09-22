@@ -5,6 +5,27 @@
     <link>https://github.com/amanmathur99/grammy-releases</link>
     <language>en</language>
     <item>
+      <title>Grammy 1.7</title>
+      <pubDate>Tue, 22 Sep 2026 15:25:30 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>New</b></p>
+<ul>
+<li>More kinds of diagrams: timelines for anything dated or phased, loops for cycles and feedback, bar charts for comparing amounts, and tables for comparing options side by side.</li>
+</ul>
+<p><b>Improved</b></p>
+<ul>
+<li>Diagrams that would come out very wide or very tall rearrange themselves to fit, so the text stays readable.</li>
+<li>Long flows wrap onto several lines instead of stretching off to the side.</li>
+<li>Two-way links, like a task going out and an answer coming back, are drawn side by side instead of on top of each other.</li>
+<li>If Claude returns an almost empty diagram for a detailed description, Grammy quietly tries again.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/amanmathur99/grammy-releases/releases/download/v1.7/Grammy.dmg" type="application/octet-stream" sparkle:edSignature="hbXQzB0AR3+KrXhMXZEfD/wBdyJHhCa8zhG6HKp7DuD3TrtckbCk+Niis2j3X1zNDErJB3P5eyj14SuUakGsBQ==" length="5424727" />
+    </item>
+    <item>
       <title>Grammy 1.6</title>
       <pubDate>Tue, 22 Sep 2026 05:51:18 GMT</pubDate>
       <sparkle:version>10</sparkle:version>
