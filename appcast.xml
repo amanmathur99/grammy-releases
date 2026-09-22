@@ -5,6 +5,21 @@
     <link>https://github.com/amanmathur99/grammy-releases</link>
     <language>en</language>
     <item>
+      <title>Grammy 1.9</title>
+      <pubDate>Tue, 22 Sep 2026 20:41:58 GMT</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>Fixed</b></p>
+<ul>
+<li>Words no longer land on top of the lines. Labels on arrows sit beside them, notes avoid arrows as well as shapes, and labels inside charts stack instead of overlapping.</li>
+<li>Diagrams only rearrange themselves to fit when it doesn&#x27;t stretch the arrows across the page.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/amanmathur99/grammy-releases/releases/download/v1.9/Grammy.dmg" type="application/octet-stream" sparkle:edSignature="7wQmcu1lVzvCT8wfoBewohy+LG5yhDc9aWGfw3UeJ6CO+WLXXmK9oM3ESAPrN1SIpGhLrPUlPfumos1vM/bHBg==" length="5445345" />
+    </item>
+    <item>
       <title>Grammy 1.8</title>
       <pubDate>Tue, 22 Sep 2026 17:41:03 GMT</pubDate>
       <sparkle:version>12</sparkle:version>
