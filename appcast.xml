@@ -5,6 +5,22 @@
     <link>https://github.com/amanmathur99/grammy-releases</link>
     <language>en</language>
     <item>
+      <title>Grammy 2.0</title>
+      <pubDate>Tue, 29 Sep 2026 04:48:39 GMT</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>Grammy 2.0</b></p>
+<ul>
+<li>Free to start. Your first 50 diagrams need no API key: choose <b>Try It Free</b> in setup. When they&#x27;re used up, add your own Anthropic API key in Settings to keep going.</li>
+<li>A simpler setup walkthrough, laid out so everything lines up from screen to screen.</li>
+<li>Cleaner Settings: clear sections, less text, and the model choices only appear once you&#x27;ve added your own key.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/amanmathur99/grammy-releases/releases/download/v2.0/Grammy.dmg" type="application/octet-stream" sparkle:edSignature="m+BXRqZIv5rpCzUQC7qy0ep0QkN7AKiNc11fzvt4i1ecbbVMoJN4/ikVqYpMa3OWPY41pM9Wh0eQFulIsCgIDw==" length="5563675" />
+    </item>
+    <item>
       <title>Grammy 1.97</title>
       <pubDate>Tue, 29 Sep 2026 04:24:01 GMT</pubDate>
       <sparkle:version>19</sparkle:version>
