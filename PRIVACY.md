@@ -5,7 +5,17 @@ Grammy is a Mac app that turns what you type or say into a diagram. This page co
 ## Your prompts and your API key
 
 - Your Anthropic API key is stored in your Mac's Keychain.
-- Diagrams are made by sending your prompt from your Mac straight to Anthropic, using your key. Those requests don't pass through any Grammy server, and I never see them. Anthropic handles them under your own agreement with Anthropic.
+- With your own key, diagrams are made by sending your prompt from your Mac straight to Anthropic, using your key. Those requests don't pass through any Grammy server, and I never see them. Anthropic handles them under your own agreement with Anthropic.
+
+## Free diagrams, before you add a key
+
+Without a key, your first few diagrams are free. They're made through Grammy's server, which adds Grammy's own key and passes your request on to Anthropic:
+
+- Your prompt and the diagram pass through the server on their way to and from Anthropic. The server doesn't log or store them, and I don't see them. Anthropic handles them under Grammy's agreement with Anthropic.
+- To count how much of the free allowance each Mac has used, the server keeps a Mac code (a one-way hash of your Mac's hardware ID, never the ID itself), what its free diagrams have cost, how many there were, and when it first and last made one. It doesn't keep your IP address.
+- The first part of that code is shown in Settings. If you send it to me to ask for more free diagrams, I can match it to that record, and nothing else.
+
+Once you add your own key, Grammy stops using the server.
 
 ## Voice
 
@@ -15,16 +25,18 @@ What you say is transcribed by macOS's built-in speech recognition, on your Mac 
 
 To see how Grammy is used and where it falls short, the app sends anonymous events to PostHog (US):
 
-- **When:** the app opens, onboarding finishes, a diagram is made or edited, a diagram fails, a diagram is opened in the editor, closed by hand, or given a 👎.
+- **When:** the app opens, onboarding finishes, a diagram is made or edited, a diagram fails, a diagram is opened in the editor, closed by hand, or given a 👎, and on the free trial: when you start it, when you ask for more, and when you add your own key.
 - **What's in them:**
   - a random install ID and a random ID per diagram
   - the app and macOS versions
   - typed or spoken, and the model used
+  - whether you're using your own key or the free trial
   - timings
   - the prompt's length in words
   - the diagram's type (for example "funnel" or "quadrant") and how many elements it has
   - how many layout problems the renderer found
   - for failures, what went wrong
+- On the free trial, Grammy's server also reports, under the same random install ID, what each free diagram cost and whether a request was turned away. It only does this while usage counts are on.
 - **Never in them:** your prompts, your diagrams, your key, or your IP address. There are no personal profiles.
 
 ## Sharing a diagram after a 👎
