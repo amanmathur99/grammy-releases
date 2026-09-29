@@ -5,6 +5,37 @@
     <link>https://github.com/amanmathur99/grammy-releases</link>
     <language>en</language>
     <item>
+      <title>Grammy 1.92</title>
+      <pubDate>Tue, 29 Sep 2026 01:40:41 GMT</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.92</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>New</b></p>
+<ul>
+<li>Grammy opens out of the camera notch at the top of the screen and tucks back into it when it&#x27;s done. On screens without a notch it hangs from the menu bar.</li>
+<li>One tap of right ⌥ finishes a recording. Double-tap still starts one.</li>
+<li>A message you&#x27;ve typed but not sent is kept. If the pill closes early or a request fails, it&#x27;s there when you open it again.</li>
+<li>Long messages wrap onto up to three lines instead of scrolling sideways.</li>
+<li>Hover a finished diagram to see it bigger, and click to open it in the editor.</li>
+<li>Draw outlines: ask for a room, a device, or a region and Grammy sketches its shape, with markers placed inside it.</li>
+<li>Opus 5.5 is available as a model choice in Settings. Sonnet stays the default.</li>
+</ul>
+<p><b>Fixed</b></p>
+<ul>
+<li>Fewer &quot;No speech heard&quot; messages: Grammy keeps listening through pauses instead of dropping what you say after one.</li>
+<li>The last update to a live sketch no longer redraws the whole diagram from scratch.</li>
+<li>The editor shows diagrams in their hand-drawn font from the start, without a switch a second later.</li>
+<li>2x2s put each quadrant on the right side of its axes, so &quot;urgent&quot; items land on the urgent side.</li>
+<li>Chart milestones no longer go missing, and their labels sit right by their stars.</li>
+<li>Text stays off lines: labels avoid curves, axes, markers and box borders, and notes no longer land inside a group they don&#x27;t describe.</li>
+<li>Arrows go around boxes instead of through them, and diagrams where everything connects to everything spread out so the arrows are readable.</li>
+<li>Lines are drawn with a single stroke instead of two that drift apart, and colored text is darker so it&#x27;s easier to read.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/amanmathur99/grammy-releases/releases/download/v1.92/Grammy.dmg" type="application/octet-stream" sparkle:edSignature="RuieNaEaisqEfRZo60jutTZ1PNt7KHJee0ayDcY/5FnhzAw2GVnQe+s0GBHYN+l8tIQY72aTmH7/xIITi5Y2Cw==" length="5486197" />
+    </item>
+    <item>
       <title>Grammy 1.9</title>
       <pubDate>Tue, 22 Sep 2026 20:41:58 GMT</pubDate>
       <sparkle:version>13</sparkle:version>
