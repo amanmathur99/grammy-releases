@@ -5,6 +5,26 @@
     <link>https://github.com/amanmathur99/grammy-releases</link>
     <language>en</language>
     <item>
+      <title>Grammy 1.95</title>
+      <pubDate>Tue, 29 Sep 2026 03:15:23 GMT</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.95</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>New</b></p>
+<ul>
+<li>A 👎 on finished diagrams. If one isn&#x27;t right, tap it and choose whether to share that diagram with the developer, so it can be fixed. Nothing is shared unless you tap Share.</li>
+<li>The editor now shows diagrams the way Grammy draws them: the same clean lettering, sketchy lines and paper background, instead of Excalidraw&#x27;s handwriting style.</li>
+</ul>
+<p><b>Improved</b></p>
+<ul>
+<li>Hovering a diagram keeps it enlarged while you move to the 👎 or close button, and the &quot;Click to open in the editor&quot; hint no longer flickers.</li>
+<li>Anonymous usage counts now include what kind of diagram was made and whether it was edited, opened in the editor or closed. Never your prompts or diagrams. Details: https://github.com/amanmathur99/grammy-releases/blob/main/PRIVACY.md</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/amanmathur99/grammy-releases/releases/download/v1.95/Grammy.dmg" type="application/octet-stream" sparkle:edSignature="a3OUnPMqFYeEyP9gzRb3xAKZM9exsjuOWT4XQunJOp53KpZVQax/E+K9Owy5PNnWWgQULPbommlBqsZZuTqtBg==" length="5518056" />
+    </item>
+    <item>
       <title>Grammy 1.93</title>
       <pubDate>Tue, 29 Sep 2026 02:00:55 GMT</pubDate>
       <sparkle:version>16</sparkle:version>
