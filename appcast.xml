@@ -5,6 +5,27 @@
     <link>https://github.com/amanmathur99/grammy-releases</link>
     <language>en</language>
     <item>
+      <title>Grammy 1.93</title>
+      <pubDate>Tue, 29 Sep 2026 02:00:55 GMT</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.93</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>Improved</b></p>
+<ul>
+<li>Smoother everywhere: the pill no longer jumps when you hover to enlarge a diagram, grows into the live sketch instead of snapping to it, and swaps &quot;Sketching…&quot; for &quot;Copied to clipboard&quot; without the two overlapping.</li>
+<li>Diagrams update without a flicker of doubled labels as each new version replaces the last.</li>
+<li>The editor opens with the diagram already drawn and fitted below the toolbar, instead of a blank window that fills in and shifts.</li>
+<li>The &quot;Click to open in the editor&quot; hint sits in the corner instead of over the diagram&#x27;s note.</li>
+</ul>
+<p><b>Fixed</b></p>
+<ul>
+<li>Moving the pointer off the pill while a diagram is still sketching no longer makes it start to hide and reopen.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/amanmathur99/grammy-releases/releases/download/v1.93/Grammy.dmg" type="application/octet-stream" sparkle:edSignature="YaLPde8CzFPQLIFxpxCa/WU6QyTg+4FAvZyJJr6PAhG6TqUbrSxFG+giuxsfxH9dpQbC2nEVQuBE8+UaQ3MXCA==" length="5488857" />
+    </item>
+    <item>
       <title>Grammy 1.92</title>
       <pubDate>Tue, 29 Sep 2026 01:40:41 GMT</pubDate>
       <sparkle:version>15</sparkle:version>
