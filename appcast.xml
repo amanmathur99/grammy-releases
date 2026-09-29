@@ -5,6 +5,20 @@
     <link>https://github.com/amanmathur99/grammy-releases</link>
     <language>en</language>
     <item>
+      <title>Grammy 1.96</title>
+      <pubDate>Tue, 29 Sep 2026 03:40:57 GMT</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>1.96</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>Improved</b></p>
+<ul>
+<li>Grammy now uses Claude Sonnet 5.5, for new diagrams and edits. Diagrams come back faster (about 3.6 seconds instead of 4.3), at the same quality. If you&#x27;d picked Sonnet 5 in Settings, you&#x27;re moved to 5.5.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/amanmathur99/grammy-releases/releases/download/v1.96/Grammy.dmg" type="application/octet-stream" sparkle:edSignature="b39vjIAPim4+JZDI9oKzhUjdD/WlEK51YjEa551VzM3HgGP/q66Y7G/egceAVsBLY8MMYlJ09DFmFaJ6gahxAA==" length="5518232" />
+    </item>
+    <item>
       <title>Grammy 1.95</title>
       <pubDate>Tue, 29 Sep 2026 03:15:23 GMT</pubDate>
       <sparkle:version>17</sparkle:version>
